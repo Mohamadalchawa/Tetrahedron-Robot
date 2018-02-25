@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{D5EE3FC8-21AF-4E54-C718-0914B29330E5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tetrahedron/Script/Objects/Tubes.cs">
+    <Files>
+      <File FileName="Assets/Tetrahedron/Script/TetrahedronManager.cs" Line="162" Column="9" />
+      <File FileName="Assets/Tetrahedron/Script/Objects/Tubes.cs" Line="219" Column="5" />
+      <File FileName="Assets/Tetrahedron/Script/Objects/Strings.cs" Line="119" Column="63" />
+      <File FileName="Assets/Tetrahedron/Script/TensegrityManager.cs" Line="149" Column="59" />
+      <File FileName="Assets/Tetrahedron/Script/Behavior/UIHandler.cs" Line="14" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tetrahedron2 PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
